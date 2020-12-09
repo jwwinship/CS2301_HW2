@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.c
+LinkedList.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.h
+stdbool.h
+-
+marker.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+stdbool.h
+-
+stdlib.h
+-
+LinkedList.h
+-
+

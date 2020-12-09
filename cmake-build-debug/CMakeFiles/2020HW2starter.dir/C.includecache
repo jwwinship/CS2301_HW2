@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/LinkedList.h
+stdbool.h
+-
+marker.h
+../src/marker.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/2020HW2starter.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+tests.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/tests.h
+production.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.h
+TMSName.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/TMSName.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.c
+LinkedList.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.h
+stdbool.h
+-
+marker.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/TMSName.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.c
+marker.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+LinkedList.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/LinkedList.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+stdbool.h
+-
+stdlib.h
+-
+LinkedList.h
+-
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.c
+production.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.h
+space.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/space.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/space.c
+stdio.h
+-
+space.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/space.h
+marker.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+time.h
+-
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/space.h
+stdbool.h
+-
+marker.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/marker.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/tests.c
+time.h
+-
+tests.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/tests.h
+production.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.h
+space.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/space.h
+
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/tests.h
+production.h
+C:/Users/John/Desktop/ECE Resources/CS2301/Code and Labs/CS2301_HW2/src/production.h
+
